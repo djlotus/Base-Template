@@ -1,0 +1,16 @@
+{
+  "name": "sassy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "grunt": "^0.4.5"
+  },
+  "devDependencies": {
+    "grunt-contrib-compass": "^1.0.4",
+    "grunt-contrib-connect": "^0.11.2",
+    "grunt-contrib-uglify": "^0.10.0",
+    "grunt-contrib-watch": "^0.6.1",
+    "matchdep": "^1.0.0"
+  }
+}

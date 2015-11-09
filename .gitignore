@@ -36,3 +36,8 @@
 ehthumbs.db
 Icon?
 Thumbs.db
+
+
+.sass-cache/
+images/
+node_modules/
